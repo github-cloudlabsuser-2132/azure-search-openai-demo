@@ -1,0 +1,2 @@
+
+Este documento puede guardarse como [README.md](http://_vscodecontentref_/2) dentro del directorio [backend](http://_vscodecontentref_/3) para que sirva como referencia para los desarrolladores que trabajen en esa parte del proyecto.
